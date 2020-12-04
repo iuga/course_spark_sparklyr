@@ -1,0 +1,3 @@
+[submodule "docker-spark-cluster"]
+	path = docker-spark-cluster
+	url = https://github.com/mvillarrealb/docker-spark-cluster
